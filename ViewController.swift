@@ -69,16 +69,3 @@ class ViewController: UIViewController {
   
   
 }
-
-/*
- button.layer.cornerRadius = 15
- button.layer.borderWidth = 3
- button.layer.borderColor = UIColor.black.cgColor
- // Shadow Color and Radius
- button.layer.shadowColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.75).cgColor
- button.layer.shadowOffset = CGSize(width: 0.0, height: 5.0)
- button.layer.shadowOpacity = 3.0
- button.layer.shadowRadius = 2.0
- button.layer.masksToBounds = false
- 
- */
